@@ -83,9 +83,9 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                     </tabBar>
                     <connections>
-                        <segue destination="uqt-0p-7NX" kind="relationship" relationship="viewControllers" id="JGF-4g-Jwk"/>
-                        <segue destination="vXN-PC-aBL" kind="relationship" relationship="viewControllers" id="LOO-Fn-4Bp"/>
-                        <segue destination="y3n-sc-olV" kind="relationship" relationship="viewControllers" id="dMb-3J-CwR"/>
+                        <segue destination="y3n-sc-olV" kind="relationship" relationship="viewControllers" id="ybc-oe-WIK"/>
+                        <segue destination="vXN-PC-aBL" kind="relationship" relationship="viewControllers" id="Cjz-Su-4g8"/>
+                        <segue destination="uqt-0p-7NX" kind="relationship" relationship="viewControllers" id="ZfJ-yA-f2U"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Tz6-M5-zgT" userLabel="First Responder" sceneMemberID="firstResponder"/>
